@@ -1,6 +1,6 @@
 /*
 ------------------------------
-SQL Queries - Tech Hub E-Commerce Analysis
+SQL Queries - Tech Kart E-Commerce Analysis
 ------------------------------
 */
 
